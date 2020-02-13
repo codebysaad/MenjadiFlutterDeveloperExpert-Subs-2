@@ -1,0 +1,700 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "Rendang Padang",
+      "thumbnail": "https://www.bacaresepdulu.com/wp-content/uploads/2013/02/resep-rendang-asli-padang.jpg",
+      "type": "breakfast",
+      "materials": [
+        "500 gram daging sapi, potong menjadi 10",
+        "600 ml santan kental, dari 1.5 butir kelapa",
+        "300 gram baby potato",
+        "5 sdm minyak goreng",
+        "300 ml air"
+      ],
+      "seasonings": [
+        "10 buah cabai merah iris",
+        "6 butir bawah merah",
+        "3 siung bawah putih",
+        "3 cm kunyit",
+        "3 cm jahe",
+        "3 cm lengkuas",
+        "1 sdm garam",
+        "1 lembar daun kunyit",
+        "1 batang serai",
+        "2 butir asam kandis"
+      ],
+      "howto": [
+        "1. Tumis bumbu hingga harum, masukkan daging, aduk hingga berubah warna. Masukkan daun kunyit, serai, dan asam kandis. Aduk perlahan.",
+        "2. Tuangkan air dan masukkan baby potato. Masak hingga air menyusut. Aduk perlahan sesekali.",
+        "3. Masukkan santan, masak dengan api sedang. Biarkan hingga daging empuk, kuah kering, dan berminyak. Angkat, sajikan."
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Opor Ayam",
+      "thumbnail": "https://www.bacaresepdulu.com/wp-content/uploads/2013/02/resep-opor-ayam.jpg",
+      "type": "breakfast",
+      "materials": [
+        "1 ekor ayam kampung, bersihkan, potong menjadi 8 bagian",
+        "500 ml santan",
+        "3 sdm minyak goreng, untuk menumis",
+        "1 batang serai, memarkan",
+        "3 cm lengkuas, memarkan",
+        "2 lembar daun jeruk",
+        "2 lembar daun salam"
+      ],
+      "seasonings": [
+        "3 siung bawang putih",
+        "3 butir kemiri",
+        "1 cm jahe",
+        "1 cm kunyit",
+        "1 sdt merica",
+        "1 cm kencur",
+        "1 sdt ketumbar"
+      ],
+      "howto": [
+        "1. Rebus ayam hingga empuk.",
+        "2. Panaskan minyak di wajan, tumis bumbu halus dengan serai, lengkuas, daun jeruk, dan saun salam hingga layu dan harum.",
+        "3. Masukkan rebusan ayam beserta sebagian air perebusnya. Masukkan santan, aduk perlahan jangan sampai santan pecah. Masak hingga bumbu meresap dan kuah menyusut.",
+        "4. Pindahkan ke panci saji, dan taburi bawang merah goreng."
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Sate Ayam",
+      "thumbnail": "https://www.bacaresepdulu.com/wp-content/uploads/2012/10/sate-ayam1.jpg1.jpg",
+      "type": "breakfast",
+      "materials": [
+        "500 gram fillet ayam, potong dadu",
+        "12 tusuk sate dari bambu",
+        "2 sdm kecap manis",
+        "2 siung bawang putih, haluskan",
+        "2 sdt minyak goreng"
+      ],
+      "seasonings": [
+        "3 buah lombok merah besar",
+        "3 buah bawang merah",
+        "2 siung bawang putih",
+        "200 gram kacang tanah, sangrai, haluskan",
+        "2 sdm kecap manis",
+        "1 sdm gula merah",
+        "garam secukupnya",
+        "150 ml air",
+        "1 sdm air perasan jeruk limau",
+        "2 sdm minyak goreng"
+      ],
+      "howto": [
+        "1. Campurkan potongan ayam, bawang putih, kecap dan minyak goreng. Aduk rata dan diamkan 20 menit.",
+        "2. Tusukkan daging ayam ke tusuk sate.",
+        "3. Panaskan minyak dan tumis bumbu halus, kemudian tambahkan kacang halus, kecap, gula merah, garam dan air. Aduk perlahan hingga matang, sisihkan.",
+        "4. Bakar sate di atas bara arang, bolak balik dan oleskan sisa bumbu hingga sate matang.",
+        "5. Sajikan sate bersama dengan bumbu kacang, perasan jeruk limau dan irisan bawang merah sebagai pelengkap"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Bakso Urat",
+      "thumbnail": "https://www.bacaresepdulu.com/wp-content/uploads/2015/02/resep-bakso.jpg",
+      "type": "breakfast",
+      "materials": [
+        "400 g daging sapi giling campur urat",
+        "2 sdm tepung kanji",
+        "2 sdm tepung terigu",
+        "1 butir telur,",
+        "1 butir telur, kocok lepas",
+        "½ sdt bubuk merica",
+        "1 sdt garam"
+      ],
+      "seasonings": [
+        "1.5 l kaldu sapi",
+        "6 siung bawang putih, memarkan",
+        "1 sdt bubuk merica",
+        "Garam secukupnya",
+        "250 g mi kuning basah, seduh air panas",
+        "60 g soun, seduh air panas",
+        "100 g sawi hijau, potong-potong",
+        "1 batang daun bawang, iris halus",
+        "1 sdm seledri cincang",
+        "1 sdm bawang merah goreng"
+      ],
+      "howto": [
+        "1. Campur semua bahan bakso halus dan bakso urat dalam wadah terpisah. Aduk dan uleni masing-masing adonan hingga rata. Dengan menggunakan bantuan 2 buah sendok makan, bentuk adonan menjasi bulatan-bulatan. Rebus sampai matang. Angkat. Sisihkan.",
+        "2. Didihkan kaldu bersama bawang putih, merica, dan garam. Masukkan bakso, masak sampai mendidih. Angkat. Rebus caisim sebentar dalam kaldu, angkat, tiriskan.",
+        "3. Siapkan mangkuk saji, beri mi kuning dan soun. Masukkan bakso, caisim, lalu siram dengan kaldu panas. Taburi dengan bawang merah goreng dan irisan daun seledri. Sajikan bersama sambal rawit, saus sambal, dan saus tomat."
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Bebek Goreng",
+      "thumbnail": "https://www.bacaresepdulu.com/wp-content/uploads/2012/10/bebek-goreng.jpg",
+      "type": "breakfast",
+      "materials": [
+        "3 gelas air",
+        "1 ekor bebek, potong menjadi 4 bagian, lumuri dengan air jeruk nipis",
+        "5 cm lengkuas, memarkan",
+        "3 lembar daun salam",
+        "2 lembar daun jeruk",
+        "Minyak goreng secukupnya"
+      ],
+      "seasonings": [
+        "5 siung bawang putih",
+        "4 butir bawang merah",
+        "4 cm kunyit",
+        "4 cm jahe",
+        "1 sdm garam",
+        "Seasoning Sambal:",
+        "4 buah cabai merah",
+        "10 buah cabai rawit",
+        "Terasi (sesuai selera)",
+        "1 buah tomat segar",
+        "1 sdt garam",
+        "1 sdt gula pasir"
+      ],
+      "howto": [
+        "1. Didihkan air, masukkan bebek, bumbu halus, lengkuas, daun salam, dan daun jeruk. Aduk rata dan masak dengan apik kecil hingga bebek empuk dan kuah mengental. Angkat dan tiriskan.",
+        "2. Panaskan minyak, goreng bebek dengan api sedang hingga kering kecoklatan. Angkat dan tiriskan.",
+        "3. Untuk menghindari daging yang alot, pilih bebek yang muda. Dan untuk menghilangkan bau amis khas bebek, lumuri dengan cuka dan diamkan sekitar 30 menit. Cuci bersih sebelum diolah.",
+        "4. Hidangkan bebek goreng dengan nasi dan lalapan."
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Soto Betawi",
+      "thumbnail": "https://www.bacaresepdulu.com/wp-content/uploads/2013/04/resep-soto-betawi.jpg",
+      "type": "breakfast",
+      "materials": [
+        "250 gr daging sandung lamur",
+        "100 gr paru sapi",
+        "100 gr babat sapi",
+        "100 gr usus sapi"
+      ],
+      "seasonings": [
+        "2 buah cabai merah keriting",
+        "3 butir bawang merah",
+        "1 siung bawang putih",
+        "1 sdt merica",
+        "1 sdt jahe iris",
+        "½ sdt jintan",
+        "1 sdm garam",
+        "2 lembar daun aalam",
+        "1 batang serai, memarkan",
+        "5 buah cengkeh"
+      ],
+      "howto": [
+        "1. Rebus daging dengan 500ml air hingga empuk, angkat, tiriskan. Potong dadu 1cm, masukkan kembali ke air rebusan.",
+        "2. Rebus babat, paru, usus hingga empuk. Angkat, iris ukuran 2x2 cm.",
+        "3. Tumis semua bumbu hingga harum, masukkan ke dalam rebusan daging. Tambahkan santan dan kelapa sangrai giling. Masukkan irisan jerohan, dan didihkan kembali.",
+        "4. Siapkan mangkok soto, beri irisan kentanf dan tomat, tuangi kuah soto dan isinya. Taburi dengan daun bawang, seledri, emping dan bawang goreng. Sajikan panas."
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Nasi Goreng Kambing",
+      "thumbnail": "https://www.bacaresepdulu.com/wp-content/uploads/2012/11/nasi-goreng-kambing.jpg",
+      "type": "breakfast",
+      "materials": [
+        "500 gram nasi",
+        "200 gram daging kambing",
+        "1 buah jahe, iris tebal",
+        "2 buah cabai merah, iris",
+        "1 buah cabai rawit, iris",
+        "1 buah daun bawang, potong kasar"
+      ],
+      "seasonings": [
+        "2 siung bawang putih, cincang",
+        "3 butih bawang merang, iris tipis",
+        "2 sdm kecap manis",
+        "1 sdm kecap asin",
+        "1 sdt merica bubuk",
+        "¼ sdt terasi"
+      ],
+      "howto": [
+        "1. Rebus daging kambing bersama dengan irisan jahe sampai empuk. Angkat kemudian potong dadu, sisihkan.",
+        "2. Tumis bawang putih, bawang merah, cabai merah dan cabai rawit sampai harum. Masukkan daging kambing, Aduk.",
+        "3. Masukkan nasi, kecap manis, kecap asin, merica dan terasi. Aduk sampai bumbu tercampur rata.",
+        "4. Angkat dan sajikan bersama dengan pelengkap."
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Batagor",
+      "thumbnail": "https://www.bacaresepdulu.com/wp-content/uploads/2012/11/batagor.jpg.jpg",
+      "type": "breakfast",
+      "materials": [
+        "20 lembar kulit pangsit siap pakai",
+        "5 buah tahu putih besar, potong ukuran 5 x 5 x 2 cm",
+        "100 gram daging ikan tenggiri, haluskan",
+        "100 gram udang kupas, cacah halus",
+        "200 gram tepung kanji",
+        "2 butir telur",
+        "1 batang daun bawang, iris tipis",
+        "2 siung bawang putih, cacah halus",
+        "1 sdt kecap ikan",
+        "½ sdt merica",
+        "½ sdt garam atau sesuaikan selera",
+        "Minyak goreng",
+        "Jeruk limau"
+      ],
+      "seasonings": [
+        "150 gram kacang, sangrai",
+        "2 buah cabe merah besar",
+        "1 sdt gula merah",
+        "1 sdt cuka",
+        "½ sdt garam",
+        "100 ml air",
+        "1 sdm kecap manis"
+      ],
+      "howto": [
+        "1. Campurkan daging ikan tenggiri, udang, telur, bawang putih, kecap ikan, merica dan garam hingga merata. Tambahkan irisan daun bawang.",
+        "2. Masukkan tepung kanji dan uleni adonan hingga tercampur rata.",
+        "3. Potong-potong tahu secara diagonal menjadi bentuk segitiga. Kerok sedikit bagian tengah untuk isi adonan.",
+        "4. Masukkan adonan ke bagian tengah tahu. Hati-hati jangan sampai tahu hancur.",
+        "5. Isi kulit pangsing dengan adonan dan rekatkan sudutnya hingga sisinya saling merekat.",
+        "6. Panaskan minyak, goreng tahu dan pangsit hingga matang kecoklatan.",
+        "7. Untuk saus kacang, haluskan cabe merah besar, kacang, gula merah dan garam. Tambahkan air, cuka dan kecap manis.",
+        "8. Masak saus di atas api kecil sambil terus diaduk hingga mendidih dan mengental.",
+        "9. Potong-potong tahu goreng dan pangsit goreng, tata di atas piring. Tuangkan saus kacang di atas dan tambahkan perasan jeruk limau."
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Siomay Bandung",
+      "thumbnail": "https://www.bacaresepdulu.com/wp-content/uploads/2012/11/siomay-bandung.jpg",
+      "type": "breakfast",
+      "materials": [
+        "150 gram udang cincang",
+        "150 gram daging ayam cincang",
+        "200 gram daging ikan tenggiri, haluskan",
+        "250 gram tepung kanji",
+        "2 butir telur, kocok lepas",
+        "15 lembar kulit pangsit siap pakai",
+        "2 buah pare, potong dan keruk bagian tengah",
+        "3 buah tahu putih, potong menjadi 4 bagian dan keruk bagian tengah",
+        "3 butir telur rebus, kupas dan potong menjadi 4",
+        "3 buah kentang rebus sebentar, bersihkan kulitnya dan potong menjadi 4"
+      ],
+      "seasonings": [
+        "5 siung bawang putih, haluskan",
+        "4 siung bawang merah, haluskan",
+        "2 sdm kecap ikan",
+        "1 sdt garam",
+        "1 sdt merica",
+        "2 sdt gula",
+        "Saus Kacang:",
+        "500 gram kacang tanah, sangrai",
+        "10 buah cabai merah besar",
+        "8 buah bawang merah",
+        "5 siung bawang putih",
+        "1 sdm gula pasir",
+        "1 sdm garam",
+        "1 sdm kecap manis",
+        "150 ml air",
+        "2 buah jeruk limau"
+      ],
+      "howto": [
+        "1. Campurkan udang cincang, ayam cincang dan ikan tenggiri yang sudah dihaluskan.",
+        "2. Tambahkan telur bawang putih dan bawang merah yang sudah dihaluskan, kecap ikan, garam, merica dan gula. Aduk hingga merata.",
+        "3. Masukkan tepung kanji sedikit demi sedikit, uleni hingga adonan kenyal dan tidak lembek.",
+        "4. Masukkan adonan daging ke dalam kulit pangsit dan tahu yang sudah dikerok.",
+        "4. Kukus siomay, tahu isi, telur dan kentang di dalam dandang panas hingga matang.",
+        "5. Untuk saus kacang, haluskan kacang yang sudah disangrai, cabai merah, bawang merah dan bawang putih.",
+        "6. Tambahkan air, gula pasir, garam, dan kecap manis. Kemudian masak di atas api kecil hingga mendidih, sambil aduk rata.",
+        "7. Tata siomay dan pelengkap di atas piring saji. Tuangkan saus kacang dan tambahkan perasan jeruk limau. Hidangkan."
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Sayur Asem",
+      "thumbnail": "https://www.bacaresepdulu.com/wp-content/uploads/2012/10/sayur-asam.jpg.jpg",
+      "type": "breakfast",
+      "materials": [
+        "1 buah jagung, potong menjadi 4",
+        "½ buah labu siam, potong kotak",
+        "100 gram kacang tanah, rebus",
+        "100 gram buah belinjo",
+        "1 genggam daun melinjo",
+        "2 lembar daun salam",
+        "1 buah lengkuas, memarkan",
+        "1 ikat kacang panjang",
+        "2 buah asam muda, kerik kulitnya",
+        "1 buah tomat, potong",
+        "150 gram daging sapi tetelan, potong",
+        "800 ml air"
+      ],
+      "seasonings": [
+        "5 butir bawang merah",
+        "3 siung bawang putih",
+        "1 butir kemiri",
+        "2 buah cabai merah besar",
+        "1 sdm gula merah",
+        "1 sdt garam",
+        "1 sdt terasi"
+      ],
+      "howto": [
+        "1. Rebus air hingga mendidih, masukkan daging. Masak di atas api kecil hingga daging empuk.",
+        "2. Masukkan jagung, labu siam, buah dan daun melinjo, kacang tanah serta bumbu halus, aduk perlahan.",
+        "3. Tambahkan daun salam dan lengkuas, masak hingga sayuran empuk.",
+        "4. Masukkan kacang panjang, asam dan tomat. Aduk perlahan dan masak sampai bumbu meresap.",
+        "5. Hidangkan."
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Mie Goreng Seafood",
+      "thumbnail": "https://www.bacaresepdulu.com/wp-content/uploads/2012/10/mie-goreng-seafood.jpg",
+      "type": "breakfast",
+      "materials": [
+        "200 gram mie kering, rebus dan tiriskan",
+        "50 gram udang, kupas",
+        "1 ekor cumi, kerat dan potong kotak",
+        "5 butih bakso ikan, belah 4",
+        "2 butir telur, kocok lepas",
+        "1 batang daun bawang, potong 2 cm",
+        "kecambah segar sesuai selera",
+        "2 sdm minyak goreng"
+      ],
+      "seasonings": [
+        "2 siung bawang putih, cincang",
+        "1 sdm kecap asin",
+        "2 sdm kecap manis",
+        "½ sdm arak masak",
+        "1 sdm saus tiram",
+        "½ sdt merica"
+      ],
+      "howto": [
+        "1. Panaskan minyak dan goreng telur, angkat dan sisihkan.",
+        "2. Tumis bawang putih sampai harum.",
+        "3. Masukkan udang, bakso ikan dan cumi, aduk.",
+        "4. Tambahkan mie, telur goreng, daun bawang, kecambah, kecap asin, kecap manis, saus tiram, arak masak dan merica. Aduk rata hingga matang.",
+        "5. Angkat dan hidangkan"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Tumis Kangkung",
+      "thumbnail": "https://www.bacaresepdulu.com/wp-content/uploads/2012/09/tumis-kangkung.jpg",
+      "type": "breakfast",
+      "materials": [
+        "2 ikat kangkung",
+        "100 gr udang kecil kupas",
+        "3 siung bawang putih",
+        "4 butir bawang merah diiris tipis",
+        "½ buah tomat dipotong panjang",
+        "2 buah cabai merah dipotong serong",
+        "4 sdm air",
+        "3 sdm minyak",
+        "Ebi secukupnya",
+        "½ sdt gula pasir",
+        "Garam secukupnya"
+      ],
+      "seasonings": [
+        "-"
+      ],
+      "howto": [
+        "1. Tumis bawang putih dan bawang merah hingga harum.",
+        "2. Tambahkan udang kemudian masak hingga berubah warna.",
+        "3. Tambahkan cabai.",
+        "4. Masukkan kangkung, ebi, gula, garam dan air secukupnya.",
+        "5. Tambahkan tomat kemudian masak dengan api besar selama 1 menit hingga layu.",
+        "6. Angkat dan sajikan."
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Kue Kering Kismis",
+      "thumbnail": "http://www.dapurkobe.co.id/wp-content/uploads/kue-kering-kismis.jpg",
+      "type": "dessert",
+      "materials": [
+        "2 bungkus Kobe Tepung Pisang Goreng Crispy (75gr)",
+        "15 gram susu bubuk",
+        "15 gram gula halus",
+        "2 butir kuning telur",
+        "75 gram mentega",
+        "25 gram butter",
+        "¼ sendok teh baking powder",
+        "50 gram kismis"
+      ],
+      "seasonings": [
+        "-"
+      ],
+      "howto": [
+        "1. Mixer dengan kecepatan tinggi mentega, butter dan gula halus hingga mengembang dan berwarna putih.",
+        "2. Turunkan kecepatan mixer, masukkan telur dan kocok hingga tercampur rata. Matikan mixer.",
+        "3. Masukkan Kobe Tepung Pisang Goreng Crispy, susu, baking powder dan kismis. Aduk dengan spatula.",
+        "4. Siapkan loyang yang sudah diolesi minyak dan tepung.",
+        "5. Ambil adonan dengan menggunakan sendok dan tekan pakai garpu. Lakukan sampai adonan habis.",
+        "6. Panggang kue dalam oven sampai matang berwarna kuning kecoklatan dan kering.",
+        "7. Setelah matang, angkat. Dinginkan dan simpan dalam toples.",
+        "8. Kue Kering Kismis siap disajikan."
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Dadar Gulung Nangka",
+      "thumbnail": "http://www.dapurkobe.co.id/wp-content/uploads/dadar-gulung-nangka.jpg",
+      "type": "dessert",
+      "materials": [
+        "3 bungkus Kobe Tepung Pisang Goreng Crispy (75gr)",
+        "1 butir telur",
+        "40 gram mentega cair",
+        "300 ml air daun pandan",
+        "pasta pandan secukupnya",
+        "minyak secukupnya (untuk olesan teflon)",
+        "buah nangka secukupny",
+        "1 bungkus Kobe Tepung Pisang Goreng Crispy (75gr)",
+        "1 blok gula merah",
+        "garam secukupnya",
+        "1 lembar daun pandan",
+        "200 ml air"
+      ],
+      "seasonings": [
+        "-"
+      ],
+      "howto": [
+        "-Cara membuat Kulit",
+        "1. Campur semua bahan kulit hingga larut dan tidak menggumpal, kecuali minyak.",
+        "2. Panaskan teflon dan olesi dengan minyak.",
+        "3. Tuang dengan 1 sendok sayur adonan untuk membuat kulit dadar.",
+        "4. Masak hingga matang, angkat dan sisihkan.",
+        "-Cara membuat Vla Gula Merah",
+        "1. Campur semua bahan, aduk rata dan masak dengan api kecil hingga mendidih.",
+        "-Cara membuat Dadar Gulung Nangka.",
+        "1. Ambil kulit dadar, isi dengan buah nangka dan digulung. Lakukan hingga habis.",
+        "2. Sajikan Dadar Gulung Nangka dengan siraman vla gula merah."
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Pisang Meler",
+      "thumbnail": "http://www.dapurkobe.co.id/wp-content/uploads/pisang-meler.jpg",
+      "type": "dessert",
+      "materials": [
+        "2 buah pisang ambon",
+        "coklat masak secukupnya",
+        "1 bungkus Kobe Tepung Pisang Goreng Crispy (75gr)",
+        "100 ml air",
+        "1 bungkus KOBE Breadcrumbs (270gr)",
+        "minyak untuk menggoreng"
+      ],
+      "seasonings": [
+        "-"
+      ],
+      "howto": [
+        "1. Potong pisang menjadi 2 bagian, dikerok dan beri lubang bagian tengahnya.",
+        "2. Masukkan coklat masak, tutup dengan bagian pisang yang tadi dikerok hingga tertutup.",
+        "3. Larutkan Kobe Tepung Pisang Goreng Crispy dengan air, aduk hingga larut.",
+        "4. Masukkan pisang kedalam adonan basah dan gulingkan kedalam KOBE Breadcrumbs.",
+        "5. Lakukan sampai selesai dan goreng dalam minyak panas hingga kecoklatan.",
+        "6. Angkat dan Pisang Meler siap disajikan."
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Pie Buah",
+      "thumbnail": "http://www.dapurkobe.co.id/wp-content/uploads/pie-buah.jpg",
+      "type": "dessert",
+      "materials": [
+        "-Bahan Kulit Pie Buah",
+        "3 bungkus Kobe Tepung Pisang Goreng Crispy (75gr)",
+        "150 gram margarin",
+        "3 butir kuning telur",
+        "1 sendok makan gula halus",
+        "-Bahan Vla",
+        "200 ml susu cair",
+        "300 ml air",
+        "100 gram gula pasir",
+        "1 bungkus Kobe Tepung Pisang Goreng Crispy (75gr)",
+        "1 sendok makan margarin",
+        "-Bahan Olesan",
+        "1 sendok teh agar-agar plain",
+        "1 sendok teh gula pasir",
+        "150 ml air",
+        "anggur secukupnya",
+        "stroberi secukupnya",
+        "jeruk secukupnya"
+      ],
+      "seasonings": [
+        "-"
+      ],
+      "howto": [
+        "-Cara membuat Kulit Pie Buah",
+        "1. Campur semua bahan dengan menggunakan spatula sampai tercampur rata.",
+        "2. Uleni adonan hingga kalis. Tipiskan adonan dan cetak dalam loyang pie.",
+        "3. Tusuk bagian bawah dengan garpu. Panggang sampai matang (bagian samping sedikit terlepas). Angkat dan dinginkan.",
+        "-Cara membuat Vla",
+        "1. Campurkan semua bahan vla kecuali margarin. Aduk rata dan masak hingga mendidih. Angkat.",
+        "2. Masukkan margarin. Aduk rata dan dinginkan.",
+        "-Cara membuat Olesan",
+        "1. Tuang air, masukkan agar-agar plain dan gula. Masak hingga mendidih. Angkat dan sisihkan.",
+        "2. Ambil kulit pie dan isi dengan vla. Beri topping buah dan siram dengan olesan.",
+        "3. Dinginkan dan Pie Buah siap disajikan."
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Nagasari Labu",
+      "thumbnail": "http://www.dapurkobe.co.id/wp-content/uploads/nagasari-labu.jpg",
+      "type": "dessert",
+      "materials": [
+        "6 lembar roti tawar",
+        "1 bungkus Kobe Tepung Pisang Goreng Crispy (75gr)",
+        "300 ml santan kental",
+        "100 gram gula pasir",
+        "150 gram labu parang (potong dadu)",
+        "daun pisang secukupnya"
+      ],
+      "seasonings": [
+        "-"
+      ],
+      "howto": [
+        "1. Sobek-sobek roti tawar. Masukkan Kobe Tepung Pisang Goreng Crispy, santan dan gula pasir.",
+        "2. Ambil 1 sendok adonan letakan di atas selembar daun pisang. Tambahkan labu didalamnya dan lipat ujung-ujungnya. Lakukan sampai adonan habis. Sisihkan.",
+        "3. Panaskan kukusan. Masukkan labu sari dan kukus selama 20 menit atau sampai matang. Angkat dan biarkan dingin.",
+        "4. Nagasari Labu siap disajikan."
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Apem Pandan",
+      "thumbnail": "http://www.dapurkobe.co.id/wp-content/uploads/apem-pandan.jpg",
+      "type": "dessert",
+      "materials": [
+        "3 butir telur ayam",
+        "1 sendok teh SP (pengembang kue)",
+        "6 sendok makan gula pasir",
+        "3 bungkus Kobe Tepung Pisang Goreng Crispy (75gr)",
+        "½ sendok teh baking powder",
+        "1 sachet santan kental",
+        "3 sendok makan air",
+        "pasta pandan secukupnya",
+        "3 sendok makan mentega"
+      ],
+      "seasonings": [
+        "-"
+      ],
+      "howto": [
+        "1. Kocok menggunakan mixer dengan kecepatan tinggi : telur, SP dan gula pasir sampai mengembang.",
+        "2. Masukkan Kobe Tepung Pisang Goreng Crispy dan baking powder. Kocok sesaat dengan kecepatan rendah.",
+        "3. Masukkan santan, air dan pasta pandan. Aduk rata dan matikan mixer.",
+        "4. Masukkan mentega cair dan aduk dengan spatula.",
+        "5. Tuang ke dalam loyang yang sudah diolesi minyak dan ditaburi tepung.",
+        "6. Kukus dalam panci kukus yang sebelumnya sudah dipanaskan terlebih dahulu hingga matang.",
+        "7. Angkat dan Apem Pandan siap sajikan."
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Nasi Panggang Keju",
+      "thumbnail": "http://www.dapurkobe.co.id/wp-content/uploads/nasi-panggang-keju.jpg",
+      "type": "dessert",
+      "materials": [
+        "250 gram nasi putih",
+        "350 ml susu cair full cream",
+        "150 gram keju cheddar parut",
+        "50 gram keju mozarella",
+        "3 sendok makan minyak goreng",
+        "2 buah sosis ayam (diiris)",
+        "4 buah bakso (diiris)",
+        "100 gram cumi kupas",
+        "1 sachet Kobe Bumbu Nasi Goreng Poll Ayaaam Poll Ayaaam rasa Ayam"
+      ],
+      "seasonings": [
+        "-"
+      ],
+      "howto": [
+        "1. Panaskan minyak kemudian tumis bawang bombay hingga harum.",
+        "2. Masukkan cumi, sosis dan bakso. Masak hingga matang.",
+        "3. Tambahkan nasi, susu, keju cheddar dan Kobe Bumbu Nasi Goreng Poll Ayaaam Ayaaam. Aduk sampai rata.",
+        "4. Tata keju mozarella di atas nasi. Tutup pan dan tunggu sampai keju mozarella meleleh atau masukkan ke dalam oven dan panggang selama 5 – 10 menit dengan suhu 180 derajat celcius.",
+        "5. Nasi Panggang Keju siap disajikan selagi hangat."
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Tomat Telur Pangganr",
+      "thumbnail": "http://www.dapurkobe.co.id/wp-content/uploads/tomat-telur-panggang.jpg",
+      "type": "dessert",
+      "materials": [
+        "4 buah tomat ukuran sedang (potong sedikit bagian atas dan buang isinya)",
+        "1 bungkus Kobe Bumbu Nasi Goreng Poll Ayaaam",
+        "4 butir telur (pisahkan kuning dan putih telur)",
+        "1 siung bawang putih (haluskan)",
+        "1/2 sendok teh merica bubuk",
+        "1 batang daun bawang (iris halus)",
+        "50 gram keju cheddar parut"
+      ],
+      "seasonings": [
+        "-"
+      ],
+      "howto": [
+        "1. Campur putih telur, Kobe Bumbu Nasi Goreng Poll Ayaaam, merica bubuk dan bawang putih. Kocok rata dan sisihkan.",
+        "2. Ambil tomat yang sudah dipotong bagian atas. Olesi permukaan tomat dengan minyak goreng.",
+        "3. Atur tomat dalam loyang. Masukkan sebagian campuran putih telur ke dalam tomat.",
+        "4. Tambahkan 1 butir kuning telur di bagian tengahnya.",
+        "5. Taburi daun bawang dan keju di atasnya. Panggang dalam oven hingga matang.",
+        "6. Angkat dan Tomat Telur Panggang siap disajikan."
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Srikaya Roti Tawar",
+      "thumbnail": "http://www.dapurkobe.co.id/wp-content/uploads/srikaya-roti-tawar.jpg",
+      "type": "dessert",
+      "materials": [
+        "4 lembar roti tawar (potong-potong)",
+        "4 buah pisang kepok (potong-potong)",
+        "1 bungkus Kobe Tepung Pisang Goreng Crispy (75gr)",
+        "500 ml santan (santan kental 200 ml + 300 ml air)",
+        "4 sendok makan gula pasir",
+        "garam secukupnya",
+        "1 lembar daun pandan (potong-potong)"
+      ],
+      "seasonings": [
+        "-"
+      ],
+      "howto": [
+        "1. Campur santan, gula pasir, garam dan Kobe Tepung Pisang Goreng Crispy. Aduk rata.",
+        "2. Masukkan roti tawar, pisang ke dalam adonan santan. Aduk rata.",
+        "3. Ambil cup alumunium foil dan letakkan potongan daun pandan.",
+        "4. Masukkan adonan roti. Kukus kurang lebih 20 menit. Angkat.",
+        "5. Biarkan dingin dan Srikaya Roti Tawar siap disajikan."
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Roti Jala Durian",
+      "thumbnail": "http://www.dapurkobe.co.id/wp-content/uploads/roti-jala-durian.jpg",
+      "type": "dessert",
+      "materials": [
+        "4 bungkus Kobe Tepung Pisang Goreng Crispy (75gr)",
+        "150 ml susu",
+        "150 ml air",
+        "1 butir telur",
+        "2 sendok makan margarin (dilelehkan)",
+        "100 gram gula merah",
+        "50 gram gula pasir",
+        "200 ml air",
+        "5 biji daging durian",
+        "1 lembar daun pandan",
+        "1 bungkus Kobe Tepung Pisang Goreng Crispy (75gr)"
+      ],
+      "seasonings": [
+        "-"
+      ],
+      "howto": [
+        "-Cara membuat Roti Jala",
+        "1. Campurkan Kobe Tepung Pisang Goreng Crispy, susu dan air. Aduk rata.",
+        "2. Tambahkan telur dan margarin cair, aduk sampai rata. Bagi dua bagian.",
+        "3. Satu adonan diberi pasta hijau dan satu lagi beri pasta merah.",
+        "4. Masukkan masing adonan kedalam plastik segitiga, potong kecil ujung plastik.",
+        "5. Bikin seperti jala diatas teflon panas, masak dengan api kecil.",
+        "6. Lakukan sampai adonan habis, sisihkan.",
+        "-Cara membuat Saus Durian",
+        "1. Masak air. Masukkan gula, garam dan daun pandan. Aduk sampai gula mencair, saring.",
+        "2. Campurkan 2 sendok makan Kobe Tepung Pisang Goreng Crispy, santan dan air gula. Aduk rata, masak sampai matang dan sedikit mengental.",
+        "3. Angkat dan sajikan saus durian dengan roti jala."
+      ]
+    }
+  ]
+}
